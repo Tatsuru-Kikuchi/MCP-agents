@@ -1,0 +1,94 @@
+{
+  "global_ai_agents_market": {
+    "market_size_2022": 5400,
+    "market_size_2025": 7630,
+    "growth_rate": "41.3%",
+    "key_drivers": [
+      "Increasing enterprise adoption",
+      "Advances in natural language processing",
+      "Growing demand for automation",
+      "Cost reduction pressures"
+    ]
+  },
+  "japan_market": {
+    "market_size_2024": 253.3,
+    "market_size_2030": 2425.3,
+    "cagr_2025_2030": 46.3,
+    "government_initiatives": [
+      "Society 5.0",
+      "Digital Transformation Strategy",
+      "AI Strategy 2019 (Updated)"
+    ]
+  },
+  "industry_roi_data": {
+    "healthcare": {
+      "japan_market_2024": 917.3,
+      "japan_market_2030": 10890.9,
+      "cagr": 42.4,
+      "productivity_increase": 40,
+      "cost_reduction": 30,
+      "error_reduction": 75,
+      "payback_period_months": 18,
+      "roi_5_year": 380
+    },
+    "finance": {
+      "roi_multiple": 4.2,
+      "fraud_detection_improvement": 40,
+      "productivity_increase": 38,
+      "cost_reduction": 25,
+      "payback_period_months": 12
+    },
+    "logistics": {
+      "fuel_cost_savings": 10,
+      "delivery_efficiency": 25,
+      "route_optimization": 30,
+      "inventory_reduction": 15,
+      "payback_period_months": 15
+    },
+    "manufacturing": {
+      "productivity_increase": 25,
+      "downtime_reduction": 40,
+      "quality_improvement": 20,
+      "roi_multiple": 3.4,
+      "payback_period_months": 14
+    }
+  },
+  "productivity_metrics": {
+    "daily_time_savings_hours": {
+      "customer_service": 1.0,
+      "business_professionals": 1.2,
+      "programmers": 2.0,
+      "consultants": 1.5,
+      "general_workers": 1.0
+    },
+    "efficiency_improvements": {
+      "customer_service": 13.8,
+      "business_professionals": 59.0,
+      "programmers": 126.0,
+      "consultants": 25.1,
+      "general_workers": 30.0
+    }
+  },
+  "implementation_costs": {
+    "healthcare": {
+      "cost_per_1000_employees": 2.5,
+      "infrastructure_multiplier": 1.5,
+      "training_cost_percentage": 15
+    },
+    "finance": {
+      "cost_per_1000_employees": 3.0,
+      "infrastructure_multiplier": 2.0,
+      "training_cost_percentage": 20
+    },
+    "logistics": {
+      "cost_per_1000_employees": 1.8,
+      "infrastructure_multiplier": 1.2,
+      "training_cost_percentage": 10
+    },
+    "manufacturing": {
+      "cost_per_1000_employees": 2.2,
+      "infrastructure_multiplier": 1.8,
+      "training_cost_percentage": 12
+    }
+  }
+}
